@@ -1,3 +1,8 @@
 Este é um exemplo para utilizar o getHub;
 Agora basta continuar aplicando as atualizações
 e não é necesário se preocupar com as atualizações, poi o gitHub vai cuidar disso pra gente.
+-----------------------------------------
+este é o momento em que tenho que modificar isso,
+pois ele estava um pouco obsoleto
+-----------------------------------
+pessoal não considere ainda este arquivo, porque já vou fazer uma nova modifcicação
