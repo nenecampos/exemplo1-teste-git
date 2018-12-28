@@ -1,1 +1,3 @@
-Este é um exemplo para utilizar o getHub
+Este é um exemplo para utilizar o getHub;
+Agora basta continuar aplicando as atualizações
+e não é necesário se preocupar com as atualizações, poi o gitHub vai cuidar disso pra gente.
